@@ -1,2 +1,2 @@
 ### About
-We are a virtual currency used to buy softwares
+We are a virtual currency which can be used to softwares
